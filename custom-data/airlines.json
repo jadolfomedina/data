@@ -1,5 +1,11 @@
 [
   {
+   "icao": "XSN",
+   "name": "Air Spain",  
+   "callsign": "AIR SPAIN",
+   "virtual": true
+  },
+  {
    "icao": "ASK",
    "name": "AIRSKY",  
    "callsign": "AIRSKY",
